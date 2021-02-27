@@ -7,7 +7,7 @@ export function Profile(){
 
     return(
         <div className={styles.profileContainer}>
-            <img src="https://pbs.twimg.com/profile_images/1354480817687437316/O3v5f-b9_400x400.jpg" alt="Dayanne"></img>
+            <img src="/icons/profile.jpeg" alt="Dayanne"></img>
             <div>
                 <strong>Dayanne Carolina</strong>
                 <p>
